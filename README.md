@@ -22,8 +22,10 @@ Solution.solution(0)
 Output:
     23571
 
+
 Input:
 Solution.solution(3)
 Output:
     71113
     
+
