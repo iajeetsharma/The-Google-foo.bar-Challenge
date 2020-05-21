@@ -1,6 +1,6 @@
 # The-Google-foo.bar-Challenge
 
-My first attempt in google foo.bar 
+My first attempt in google foo.bar although the code could not pass the hidden cases 
 
 Re-ID
 =====
